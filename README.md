@@ -1,7 +1,7 @@
 Installation Guide
 ==================
 
-It's  really easy to install ZesleCP control panel and it only takes up to 8-10 minutes.
+It's really easy to install ZesleCP control panel and it only takes up to 8-10 minutes.
 
 Our support team is available, feel free to contact us [here](https://zeslecp.com/contact) or email us at [zeslecp@gmail.com](mailto:zeslecp@gmail.com).
 
